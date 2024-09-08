@@ -7,5 +7,5 @@ MENU INICIO
 4- Crear carteles de alerta si no llega a colocar bien usuario y contraseña
 
 PASO 1
-- Buscar imagenes(pendiente)
+- Buscar imagenes (pendiente)
 
